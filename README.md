@@ -1,6 +1,6 @@
 # 💸 Expense Tracker Web App
 
-A simple, responsive, and interactive **Expense Tracker** web application built using **HTML**, **CSS**, and **JavaScript**. This app helps users **track daily expenses**, manage their spending habits, and maintain a clear financial overview.
+A simple, and interactive **Expense Tracker** web application built using **HTML**, **CSS**, and **JavaScript**. This app helps users **track daily expenses**, manage their spending habits, and maintain a clear financial overview.
 
 ---
 
@@ -10,13 +10,6 @@ A simple, responsive, and interactive **Expense Tracker** web application built 
 - 🧾 List all transactions with details
 - ➖ Calculate and display balance dynamically
 - 🔄 Remove individual transactions
-- 📱 Fully responsive UI for mobile and desktop
-
----
-
-## 📸 Screenshots
-
-*(Add screenshots here if available)*
 
 ---
 
